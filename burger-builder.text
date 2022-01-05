@@ -1,0 +1,49 @@
+enable css modules.. to scope css to a specific component so that 
+its not applied globally if the same style is used...
+
+
+......................
+generally stateful components we store inside containers 
+and stateless / functional components we store inside components folder 
+
+
+.............modal....
+wraps around to displays omething
+
+
+
+
+
+
+
+.........  using realtime database  firebase .........
+link is the endpoint where we have to sent request and it automatically 
+does the mapping of the data...
+in rules 
+
+set read and write access to  "true" so that everyone can read and edit 
+
+
+
+after sending the post request  make sure to show something to user while
+data is being saved and after successfull saving send some feed back to 
+user about that 
+
+
+
+
+
+//  watch
+1......  retrieving data from backend
+2...... component life cycles
+3...... removing older interceptors
+
+
+
+
+
+
+take care of the class names... style can break 
+because eventhough we have same class names these are actually
+hashed during runtime and not the same as it seems 
+

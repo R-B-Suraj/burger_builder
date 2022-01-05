@@ -1,0 +1,6 @@
+.Content {
+    /* margin-top: 16px; */
+    margin-top: 72px;
+}
+/* main element is overlapped to the toolbar
+it should have margin top along with the height of the toolbar 56px */

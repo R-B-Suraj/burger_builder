@@ -1,3 +1,22 @@
+1- npm install 
+    for installing the dependencies
+2- npm start
+    start the developer server 
+
+functions...
+responsive
+we can get orders that we have placed from firebase database
+we can order burger 
+after confirmation you'll get a form to submit whose data is validated before submitting 
+and storing to database
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,30 @@
+/* .Logo{
+    background-color: while;
+    padding: 8px;
+    height: 80%;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.Logo img{
+    height: 100%;
+} */
+
+
+
+
+/*  responsive design for mobile devices */
+
+.Logo{
+    background-color: while;
+    padding: 8px;
+    height: 100%;
+    /*  we should restrict it height in tool bar and sidedrawer 
+    and not inside the logo component*/
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.Logo img{
+    height: 100%;
+}
